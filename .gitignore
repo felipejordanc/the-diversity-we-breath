@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # MAC
-.DStore
+.DS_Store
 
 #Data
 data/raw
