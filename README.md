@@ -16,7 +16,7 @@ To reproduce **data construction**:
 - Run scrits/create_data/A_directoryStructure.py to create a local directory structure.
 - Contact the corresponding author to obtain raw data and copy it into data/raw.
 - Run scripts in the scripts/data_processing directory from the root directory.
-- Note that to georeference leaks, you will need to provide the path to your Google API in the scripts/create_data/B-geocodeLeaks.py, line 25, where the local variable PATH_TO_KEY is defined. The structure of the file is quite simple, just one line where you replace [API_KEY] for your key: GOOGLE_GEOREF_API_KEY=[API_KEY].
+- Note that to georeference leaks, you will need to provide the path to your Google API in the scripts/create_data/B-geocodeLeaks.py, line 25, where the local variable PATH_TO_KEY is defined. The structure of the file is quite simple: just one line where you replace [API_KEY] for your key: GOOGLE_GEOREF_API_KEY=[API_KEY].
 
 ## Software requirements
 The data processing is run entirely on Python. The following packages are required:
@@ -30,7 +30,7 @@ The scripts that run the final analysis are run in Python and Stata. For Python,
 - GeoPandas
 - Pandas
 
-Please do not hessitate to contact should you find any difficulty running the scripts.
+Please do not hesitate to contact me should you find any difficulty running the scripts.
 
 
 Felipe Jordán, 2024 - felipe.jordan@uc.cl
