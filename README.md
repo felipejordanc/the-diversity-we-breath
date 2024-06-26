@@ -4,7 +4,7 @@ This repository contains the code and final datasets to replicate the empirical 
 
 We encourage researchers to make use of the code and data in this repository, but we kindly ask to cite the paper in any publication as:
 
-[SUGGESTED CITATION]
+Jordán, F., & Di Gregorio, E. (2024). The diversity we breathe: Community diversity and gas leak management. Regional Science and Urban Economics. Advance online publication. https://doi.org/10.1016/j.regsciurbeco.2024.104037
 
 ## Instruction
 To reproduce the **final results**:
